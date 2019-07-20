@@ -1,7 +1,9 @@
 # The Hyperspace Demo
 ![Screenshot](https://github.com/Skipperro/hyperspace/blob/master/screenshot.png)
 
-[Download here](https://github.com/Skipperro/hyperspace/releases/)
+Download here: [Releases](https://github.com/Skipperro/hyperspace/releases/)
+
+Watch preview here: [YouTube](https://youtu.be/MXMk_a91wmA)
 
 This demo app is created as learning project and it's not intended 
 for commercial use. 
